@@ -1,6 +1,6 @@
 languageCode = "en-gb"
 title = "chez-J"
-baseurl = "http://chezj.co.uk/"
+baseurl = "https://chezj.co.uk/"
 theme = "aerial"
 
 [params]
@@ -29,4 +29,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:jessica@chessels.co.uk"
