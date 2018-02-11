@@ -14,17 +14,17 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/JessRShiner"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/jessica.shiner.5"
 
 [[params.social]]
   medium = "Instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/jessicarshiner/"
 
 [[params.social]]
   medium = "Email"
