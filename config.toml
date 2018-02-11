@@ -1,0 +1,32 @@
+languageCode = "en-gb"
+title = "chez-J"
+baseurl = "http://chezj.co.uk/"
+theme = "aerial"
+
+[params]
+  name = "chez-J"
+  about = "La planète &nbsp;&bull;&nbsp; Terre &nbsp;&bull;&nbsp; Elle a une bonne réputation"
+  copyright = "Jessica R Shiner"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = "nope"
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
